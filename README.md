@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
- <img src="https://media.giphy.com/media/EHRWEggRHXiHm/giphy.gif"></img>
+
+<p align="center">
+  <a href="https://github.com/awave1/temagolovin.dev">
+    🌊
+  </a>
+
+  <h3 align="center">hey there</h3>
+</p>
