@@ -19,5 +19,13 @@ Here are some ideas to get you started:
     🌊
   </a>
 
-  <h3 align="center">hey there</h3>
+  <h1 align="center">hey there 👋</h1>
+  
+  <p align="center">
+      Software developer by day, beatmaker by night.
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=awave1&show_icons=true&theme=radical" />
+  </p>
 </p>
