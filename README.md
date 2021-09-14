@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=awave1&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=awave1&show_icons=true&theme=gruvbox" />
   </p>
 </p>
